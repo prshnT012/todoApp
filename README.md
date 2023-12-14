@@ -7,8 +7,37 @@
 ---
 ## Preview
 
+
+
+
+
+
+https://github.com/prshnT012/todoApp/assets/123406900/ada07fb0-6e6e-4c19-9b91-24dcba03ba87
+
+
+
+
+
+
 ---
+
 ## Demo image
+
+
+
+
+<img width="685" alt="todo" src="https://github.com/prshnT012/todoApp/assets/123406900/f6836db6-9c45-46f8-ac77-a238dfc72e4d">
+
+
+
+
+
+
+
+
+
+
+
 
 ---
 ## [Live link](https://todo-app-theta-flax.vercel.app/)
